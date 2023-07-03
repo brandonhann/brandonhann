@@ -1,1 +1,1 @@
-[![My stats](https://github-readme-stats.vercel.app/api?username=brandonhann)](https://github.com/brandonhann/brandonhann)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandonhann)](https://github.com/brandonhann/brandonhann
