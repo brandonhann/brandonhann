@@ -1,3 +1,5 @@
+👋 Hello, I'm Brandon - a 2nd semester compsci student.
+
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
