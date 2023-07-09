@@ -15,4 +15,4 @@
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.w3schools.com/sql/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandonhann&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandonhann&theme=synthwave)
