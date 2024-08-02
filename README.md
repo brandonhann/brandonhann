@@ -1,4 +1,4 @@
-👋 Hello, I'm Brandon - a 4th semester Compsci student.
+👋 Hello, I'm Brandon.
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
